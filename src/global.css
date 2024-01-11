@@ -1,0 +1,247 @@
+*
+{
+    margin: 0px;
+    border: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+
+ .div1{
+    /* display: flex; */
+        /* justify-content: space-around; */
+        /* align-items: center; */
+        
+      position: relative;
+      /* background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%); */
+        height: 1000px;
+        
+        /* border: 2px solid red; */
+        background-image: url(../src/resource/DE-en-20231204-popsignuptwoweeks-perspective_alpha_website_large.jpg); 
+}
+select{
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 5px;
+    height:40px ;
+    width: 150px;
+    font-size: 20px;
+    color: white;
+    margin-right: 20px;
+}
+.hello{
+    font-size: 25px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 40px;
+    width: 100px;
+    margin-right: 100%;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between; 
+     align-items: center; 
+}
+.mainclass{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    width: 1500px;
+   
+}
+.incen
+{
+   
+    height: 260px;
+    width: 100%;
+    
+   
+   
+    /* border: 2px solid aqua; */
+}
+.big
+{
+   margin-top: 100px;
+   padding-top: 130px;
+    color: white;
+    font-size: 50px;
+}
+.watch{
+    color: white;
+}
+
+.labe
+{
+    height: 100px;
+    width: 100%;
+    color: white;
+    /* border: 2px solid black; */
+}
+.sigin{
+    
+    margin-right: 10px;
+    background-color:red;
+    height:40px ;
+    width: 150px;
+    font-size: 20px;
+    color: white;
+}
+h1{
+ text-align: center;
+ /* display: flex; */
+}
+.last
+{
+    text-align: center;
+   
+}
+input{
+    height: 60px;
+    width: 20%;
+    border: 2px solid grey;
+    text-align: center;
+    font-size: 25px;
+    background-color: transparent;
+    margin-right: 20px;
+  
+}
+.getstarted{
+   
+    border: 2px solid red;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    height: 60px;
+    width: 20%;
+    text-align: center;
+    margin: auto;
+}
+.ready{
+    font-size: 25px;
+    align-items: center;
+    text-align: center;
+}
+
+
+.tvmain{
+    height: 550px;
+    border: 10px solid rgba(0, 0, 0, 0.274);
+    /* background-color: black; */
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.tv{
+    font-size: 50px;
+    color: white;
+    margin-top: 100px;
+    margin-right: 600px;  
+    /* border: 2px solid red;  */
+  
+}
+.tv1{
+    color: white;
+    margin-right: 400px;
+    /* border: 2px solid brown; */
+}
+
+.tva{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    height: 550px;
+    border: 5px solid grey;
+    background-color: black;
+}
+ .tvn{
+    width: 50%;
+    height: 550px;
+    /* border: 2px solid red; */
+ }
+ 
+ .tvh1{
+   font-size: 50px;
+   color: white;
+ 
+   /* border: 2px solid brown; */
+  
+ }
+ p{
+    font-size: larger;
+    margin-bottom: 80%;
+    color: white;
+    
+ }
+ .fadu{
+    margin: 10%;
+   margin-top: 25%;
+ }
+ .not{
+    margin-top: 28%;
+ }
+   .tvbig{
+    height: 1000px;
+    background-color: black;
+    /* border: 2px solid red; */
+   }
+   .navbig{
+  margin: 20px;
+  padding: 25px;
+  margin-left: 145px;
+    height: 100px;
+    width: 800px;
+    background-color: rgb(49, 46, 46);
+    /* border: 2px solid red; */
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    
+   }
+   .plus{
+    font-size: 30px;
+   text-shadow: 200px;
+   display: flex;
+   /* border: 2px solid red; */
+   }
+   .pp{
+    font-size: 30px;
+    
+   }
+
+   .lasttv{
+    height: 350px;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(54, 52, 52); 
+    width: 100%;
+   }
+ .imgkids{
+    height: 350px;
+    width: 350px;
+    margin: 10%;
+   
+ }
+ .imgkid{
+    margin: 10%;
+    height: 350px;
+    width: 400px;
+ }
+ .mobile{
+    margin: 10%;
+    height: 350px;
+    width: 300px;
+ }
+.imgl{
+    margin: 10%;
+    height: 350px;
+    width: 350px;
+    
+}
+h5{
+    margin-left: 20%;
+    margin-top: 20px;
+}
